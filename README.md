@@ -41,8 +41,10 @@ If any rubbish values found such as '0000',it should be converted into null.
 
   * Handle missing values with mean/median/mode.
   * Treat Outliers using IQR
-  * Identify Skewness in the dataset and treat skewness with appropriate data transformations, such as log transformation.
-  * Encode categorical variables using suitable techniques, such as one-hot encoding, label encoding, or ordinal encoding, based on their nature and relationship with the target variable.
+  * Identify Skewness in the dataset and treat skewness with appropriate data transformations,
+    such as log transformation.
+  * Encode categorical variables using suitable techniques, such as one-hot encoding, label encoding,
+    or ordinal encoding, based on their nature and relationship with the target variable.
 
 **3. Exploaratory Data Analysis:**
 
@@ -56,7 +58,8 @@ In this project a lead time has been developed as new feature.
 **5. Model Building and Evaluation:**
 
      * Split the dataset into training and testing/validation sets.
-     * Train and evaluate with different classification models and measure it using appropriate evaluation metrics such as accuracy, precision, recall, F1 score, and AUC curve.
+     * Train and evaluate with different classification models and measure it using appropriate evaluation metrics
+       such as accuracy, precision, recall, F1 score, and AUC curve.
      * Optimize model hyperparameters using techniques such as cross-validation and grid search to find the best-performing model.
      * Interpret the model results and assess its performance based on the defined problem statement.
 
