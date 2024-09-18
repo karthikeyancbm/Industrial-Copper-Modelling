@@ -19,5 +19,14 @@ Copper is used across various industries in the following approximate percentage
 4.Consumer Products - 12%: Includes appliances, cookware, and other household goods.
 5.Industrial Machinery - 6%: Used in machinery, heat exchangers, and industrial equipment.
 
+**Problem Statement**
+
+The copper industry deals with less complex data related to sales and pricing.The data may suffer from issues of skewness and noisy.
+Due to these challenges,manual predictions of selling price is not optimal and time consuming too.
+A machine learning regression model can address these issues by utilizing advanced techniques such as data normalization,
+feature scaling, and outlier detection, and leveraging algorithms that are robust to skewed and noisy data.
+
+Another area where the copper industry faces challenges is in capturing the leads. 
+A lead classification model is a system for evaluating and classifying leads based on how likely they are to become a customer.
 
 
