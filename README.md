@@ -29,4 +29,22 @@ feature scaling, and outlier detection, and leveraging algorithms that are robus
 Another area where the copper industry faces challenges is in capturing the leads. 
 A lead classification model is a system for evaluating and classifying leads based on how likely they are to become a customer.
 
+**Approach:**
+
+**1. Data Understanding:**
+
+Identify the types of variables (continuous, categorical) and their distributions.
+
+If any rubbish values found such as '0000',it should be converted into null.
+
+**2. Data Preprocessing:**
+
+  * Handle missing values with mean/median/mode.
+  * Treat Outliers using IQR
+  * Identify Skewness in the dataset and treat skewness with appropriate data transformations, such as log transformation.
+  * Encode categorical variables using suitable techniques, such as one-hot encoding, label encoding, or ordinal encoding, based on their nature and relationship with the target variable.
+
+
+
+
 
