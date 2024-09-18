@@ -1,5 +1,6 @@
 # Industrial-Copper-Modelling
-This project is about to build Regression Model to predict the selling price of copper and to build Classification Model to predict the leads conversion.
+This project is about to build Regression Model to predict the selling price of copper and to build Classification Model to predict the leads conversion
+which is ensured by displaying the status is either won or lost.
 
 **Copper - A Brief Overview**
 
