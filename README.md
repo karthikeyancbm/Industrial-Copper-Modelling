@@ -65,10 +65,10 @@ In this project a lead time has been developed as new feature.
 
 **6. Model Deployment using Streamlit:**
 
-     * Develop interactive GUI using streamlit
-     * Task input( Regression or Classification)
-     * create an input field where the user can enter each column value except ‘Selling_Price’ for regression model 
-       and except ‘Status’ for classification model.
+  * Develop interactive GUI using streamlit
+  * Task input( Regression or Classification)
+  * create an input field where the user can enter each column value except ‘Selling_Price’ for regression model 
+    and except ‘Status’ for classification model.
 
 
   
