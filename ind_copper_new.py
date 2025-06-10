@@ -32,7 +32,8 @@ def status_pred(user_data):
         return "Won"
     else:
         return "Lost"
-    
+
+st._config.set_option('theme.base','dark')    
 
 st.set_page_config(layout="wide")
 
